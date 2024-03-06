@@ -1,5 +1,3 @@
-""" 
-
 A) 1, 3, 5, 7, __
 
 A cada termo está sendo adicionado o valor 2, logo, a resposta é 9
@@ -35,5 +33,3 @@ F) 2, 10, 12, 16, 17, 18, 19, __
 Os temos tem como regra iniciar com a letra D, logo a resposta é 200.
 
 2, 10, 12, 16, 17, 18, 19, 200. 
-
-"""
